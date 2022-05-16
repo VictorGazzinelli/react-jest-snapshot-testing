@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly with given props 1`] = `
+<a
+  href="https://reactjs.org/docs/getting-started.html"
+  id="myNewLink"
+>
+   
+  Get Started
+   
+</a>
+`;
